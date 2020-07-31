@@ -10,7 +10,7 @@ Watch a [video tutorial on YouTube](https://youtu.be/7vBxJmXD3Js) walking throug
 
 [![](assets/getting-started-java-thumbnail.png)](https://youtu.be/7vBxJmXD3Js)
 
-Estimated time to complete: 60 minutes
+_Estimated time to complete: 60 minutes_
 
 ## Prerequisites
 
@@ -512,5 +512,5 @@ Good Morning Josh Wulf
 
 ## Profit!
 
-Congratulations. You've completed the Getting Started Guide for Camunda Cloud using Java with Spring.
+Congratulations. You've completed the Getting Started Guide for Camunda Cloud using Golang.
 
