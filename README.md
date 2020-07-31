@@ -1,6 +1,6 @@
 ---
-id: spring-java-client
-title: Java + Spring
+id: go-client
+title: Go
 ---
 # Getting Started with Camunda Cloud using Go
 
