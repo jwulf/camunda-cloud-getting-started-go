@@ -10,6 +10,8 @@ Watch a [video tutorial on YouTube](https://youtu.be/7vBxJmXD3Js) walking throug
 
 [![](assets/getting-started-java-thumbnail.png)](https://youtu.be/7vBxJmXD3Js)
 
+Estimated time to complete: 60 minutes
+
 ## Prerequisites
 
 * [Go 1.13+](https://golang.org/dl/)
